@@ -1,0 +1,1 @@
+This code is a simple computer vision and tracking application that allows tracking an object with a mouse click. For example, tracking can be started on an object with a mouse click and the movement of the object can be tracked.
